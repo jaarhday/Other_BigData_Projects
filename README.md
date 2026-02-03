@@ -4,7 +4,7 @@ This repository contains multiple feature engineering projects completed as part
 
 ---
 
-## Complex Feature Challenge (In Progress)
+## Complex Feature Challenge
 
 This was a team-based feature engineering project built on a large transactional dataset containing weekly sales data from convenience stores across the United States. The objective was to design and integrate a complex, external-data-driven feature that could improve downstream sales prediction models.
 
@@ -30,7 +30,7 @@ This feature captures local economic conditions and provides a macroeconomic sig
 
 ---
 
-## Easy Feature Challenge (In Progress)
+## Easy Feature Challenge
 
 This was a separate team-based project focused on creating a simpler, statistically derived feature using only internal transactional data. The goal was to engineer a feature that was computationally efficient while still providing meaningful insight into sales behavior.
 
