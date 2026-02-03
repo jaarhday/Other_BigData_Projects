@@ -1,7 +1,6 @@
 # Feature Engineering Projects
 
-This repository contains multiple feature engineering projects completed as part of a data science and machine learning coursework. The projects focus on transforming large-scale transactional data into meaningful features suitable for predictive modeling, with an emphasis on real-world datasets, APIs, and distributed data processing using PySpark.
-
+This repository contains multiple feature engineering projects completed as part of a data science and machine learning coursework. The projects focus on transforming large-scale transactional data into meaningful features suitable for predictive modeling, with an emphasis on real-world datasets, APIs, and distributed data processing using PySpark. Development was primarily conducted in a Databricks cloud environment; therefore, not all original notebooks and code artifacts are preserved in this repository.
 ---
 
 ## Complex Feature Challenge
